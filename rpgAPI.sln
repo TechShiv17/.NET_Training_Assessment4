@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rpgAPI", "src\rpgAPI.csproj", "{EA480EF7-DD28-4E09-922F-E22FAA4B3601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpgAPITest", "tests\rpgAPITest\rpgAPITest.csproj", "{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA480EF7-DD28-4E09-922F-E22FAA4B3601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA480EF7-DD28-4E09-922F-E22FAA4B3601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA480EF7-DD28-4E09-922F-E22FAA4B3601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA480EF7-DD28-4E09-922F-E22FAA4B3601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31FC4A5D-40C6-43CE-8AB1-F3036BC614B9}
+	EndGlobalSection
+EndGlobal

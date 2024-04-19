@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shivam\\Videos\\Assessment-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}|tests\\rpgAPITest\\rpgAPITest.csproj|c:\\users\\shivam\\videos\\assessment-4\\tests\\rpgapitest\\charactercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}|tests\\rpgAPITest\\rpgAPITest.csproj|solutionrelative:tests\\rpgapitest\\charactercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}|tests\\rpgAPITest\\rpgAPITest.csproj|c:\\users\\shivam\\videos\\assessment-4\\tests\\rpgapitest\\characterservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3D7A68-376C-44CF-92D0-FA43F4F27A1A}|tests\\rpgAPITest\\rpgAPITest.csproj|solutionrelative:tests\\rpgapitest\\characterservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA480EF7-DD28-4E09-922F-E22FAA4B3601}|src\\rpgAPI.csproj|c:\\users\\shivam\\videos\\assessment-4\\src\\service\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA480EF7-DD28-4E09-922F-E22FAA4B3601}|src\\rpgAPI.csproj|solutionrelative:src\\service\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA480EF7-DD28-4E09-922F-E22FAA4B3601}|src\\rpgAPI.csproj|c:\\users\\shivam\\videos\\assessment-4\\src\\controller\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA480EF7-DD28-4E09-922F-E22FAA4B3601}|src\\rpgAPI.csproj|solutionrelative:src\\controller\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA480EF7-DD28-4E09-922F-E22FAA4B3601}|src\\rpgAPI.csproj|c:\\users\\shivam\\videos\\assessment-4\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA480EF7-DD28-4E09-922F-E22FAA4B3601}|src\\rpgAPI.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam\\Videos\\Assessment-4\\tests\\rpgAPITest\\CharacterControllerTest.cs",
+              "RelativeDocumentMoniker": "tests\\rpgAPITest\\CharacterControllerTest.cs",
+              "ToolTip": "C:\\Users\\Shivam\\Videos\\Assessment-4\\tests\\rpgAPITest\\CharacterControllerTest.cs",
+              "RelativeToolTip": "tests\\rpgAPITest\\CharacterControllerTest.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:47:49.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam\\Videos\\Assessment-4\\tests\\rpgAPITest\\CharacterServiceTest.cs",
+              "RelativeDocumentMoniker": "tests\\rpgAPITest\\CharacterServiceTest.cs",
+              "ToolTip": "C:\\Users\\Shivam\\Videos\\Assessment-4\\tests\\rpgAPITest\\CharacterServiceTest.cs",
+              "RelativeToolTip": "tests\\rpgAPITest\\CharacterServiceTest.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIAwwDcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:37:05.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterService.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam\\Videos\\Assessment-4\\src\\Service\\CharacterService.cs",
+              "RelativeDocumentMoniker": "src\\Service\\CharacterService.cs",
+              "ToolTip": "C:\\Users\\Shivam\\Videos\\Assessment-4\\src\\Service\\CharacterService.cs",
+              "RelativeToolTip": "src\\Service\\CharacterService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:33:33.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam\\Videos\\Assessment-4\\src\\Controller\\CharacterController.cs",
+              "RelativeDocumentMoniker": "src\\Controller\\CharacterController.cs",
+              "ToolTip": "C:\\Users\\Shivam\\Videos\\Assessment-4\\src\\Controller\\CharacterController.cs",
+              "RelativeToolTip": "src\\Controller\\CharacterController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:33:21.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shivam\\Videos\\Assessment-4\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "C:\\Users\\Shivam\\Videos\\Assessment-4\\src\\Program.cs",
+              "RelativeToolTip": "src\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:33:12.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

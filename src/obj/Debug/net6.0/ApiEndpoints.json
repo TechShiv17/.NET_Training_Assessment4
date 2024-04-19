@@ -1,0 +1,126 @@
+[
+  {
+    "ContainingType": "rpgAPI.src.Controller.CharacterController",
+    "Method": "GetCharacter",
+    "RelativePath": "api/Character",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "rpgAPI.src.Model.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[rpgAPI.src.Model.Character, rpgAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "rpgAPI.src.Controller.CharacterController",
+    "Method": "PostCharacter",
+    "RelativePath": "api/Character",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newCharacter",
+        "Type": "rpgAPI.src.Model.Character",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "rpgAPI.src.Model.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[rpgAPI.src.Model.Character, rpgAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "rpgAPI.src.Controller.CharacterController",
+    "Method": "DeleteCharacter",
+    "RelativePath": "api/Character",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "rpgAPI.src.Model.ServiceResponse\u00601[[rpgAPI.src.Model.Character, rpgAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "rpgAPI.src.Controller.CharacterController",
+    "Method": "UpdateCharacter",
+    "RelativePath": "api/Character",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "character",
+        "Type": "rpgAPI.src.Model.Character",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "rpgAPI.src.Model.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[rpgAPI.src.Model.Character, rpgAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "rpgAPI.src.Controller.CharacterController",
+    "Method": "GetId",
+    "RelativePath": "api/Character/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "rpgAPI.src.Model.ServiceResponse\u00601[[rpgAPI.src.Model.Character, rpgAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,193 @@
+SF:C:\Users\Shivam\Videos\Assessment-4\src\Program.cs
+FN:4,System.Void Program::<Main>$(System.String[])
+FNDA:0,System.Void Program::<Main>$(System.String[])
+DA:5,0
+DA:8,0
+DA:9,0
+DA:10,0
+DA:11,0
+DA:13,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:23,0
+DA:25,0
+DA:27,0
+DA:29,0
+BRDA:16,76,0,0
+BRDA:16,76,1,0
+LF:16
+LH:0
+BRF:2
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:C:\Users\Shivam\Videos\Assessment-4\src\Service\CharacterService.cs
+FN:20,rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>> rpgAPI.src.Service.CharacterService::GetAllCharacter()
+FNDA:1,rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>> rpgAPI.src.Service.CharacterService::GetAllCharacter()
+DA:21,1
+DA:22,1
+DA:23,1
+DA:24,1
+DA:25,1
+DA:26,1
+DA:27,1
+FN:29,rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>> rpgAPI.src.Service.CharacterService::AddCharacter(rpgAPI.src.Model.Character)
+FNDA:1,rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>> rpgAPI.src.Service.CharacterService::AddCharacter(rpgAPI.src.Model.Character)
+DA:30,1
+DA:31,1
+DA:33,1
+DA:34,1
+DA:35,1
+DA:36,1
+DA:37,1
+DA:39,1
+FN:41,rpgAPI.src.Model.ServiceResponse`1<rpgAPI.src.Model.Character> rpgAPI.src.Service.CharacterService::GetCharacterById(System.Int32)
+FNDA:1,rpgAPI.src.Model.ServiceResponse`1<rpgAPI.src.Model.Character> rpgAPI.src.Service.CharacterService::GetCharacterById(System.Int32)
+DA:42,1
+DA:43,4
+DA:45,1
+DA:47,1
+DA:48,0
+DA:49,0
+DA:50,0
+DA:52,0
+DA:55,1
+DA:57,1
+DA:58,1
+BRDA:47,49,0,0
+BRDA:47,49,1,1
+FN:60,rpgAPI.src.Model.ServiceResponse`1<rpgAPI.src.Model.Character> rpgAPI.src.Service.CharacterService::DeleteCharacter(System.Int32)
+FNDA:0,rpgAPI.src.Model.ServiceResponse`1<rpgAPI.src.Model.Character> rpgAPI.src.Service.CharacterService::DeleteCharacter(System.Int32)
+DA:61,0
+DA:62,0
+DA:64,0
+DA:66,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:73,0
+DA:75,0
+DA:76,0
+DA:77,0
+BRDA:68,61,0,0
+BRDA:68,61,1,0
+FN:80,rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>> rpgAPI.src.Service.CharacterService::UpdateCharacter(rpgAPI.src.Model.Character)
+FNDA:3,rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>> rpgAPI.src.Service.CharacterService::UpdateCharacter(rpgAPI.src.Model.Character)
+DA:81,3
+DA:83,3
+DA:84,10
+DA:86,3
+DA:87,2
+DA:88,10
+DA:89,2
+DA:91,3
+DA:93,3
+DA:95,3
+DA:96,3
+BRDA:86,49,0,2
+BRDA:86,49,1,3
+FN:12,System.Void rpgAPI.src.Service.CharacterService::.cctor()
+FNDA:1,System.Void rpgAPI.src.Service.CharacterService::.cctor()
+DA:13,1
+DA:14,1
+DA:15,1
+DA:16,1
+DA:17,1
+LF:54
+LH:38
+BRF:6
+BRH:3
+FNF:6
+FNH:5
+end_of_record
+SF:C:\Users\Shivam\Videos\Assessment-4\src\Model\Character.cs
+FN:9,System.Int32 rpgAPI.src.Model.Character::get_Id()
+FNDA:51,System.Int32 rpgAPI.src.Model.Character::get_Id()
+DA:10,51
+FN:11,System.String rpgAPI.src.Model.Character::get_Name()
+FNDA:19,System.String rpgAPI.src.Model.Character::get_Name()
+DA:12,19
+FN:13,System.Int32 rpgAPI.src.Model.Character::get_HitPoint()
+FNDA:10,System.Int32 rpgAPI.src.Model.Character::get_HitPoint()
+DA:14,10
+FN:15,System.Int32 rpgAPI.src.Model.Character::get_Strength()
+FNDA:10,System.Int32 rpgAPI.src.Model.Character::get_Strength()
+DA:16,10
+FN:17,System.Int32 rpgAPI.src.Model.Character::get_Defense()
+FNDA:10,System.Int32 rpgAPI.src.Model.Character::get_Defense()
+DA:18,10
+FN:19,System.Int32 rpgAPI.src.Model.Character::get_Intelligence()
+FNDA:10,System.Int32 rpgAPI.src.Model.Character::get_Intelligence()
+DA:20,10
+FN:21,rpgAPI.src.Model.RPGClass rpgAPI.src.Model.Character::get_CharacterClass()
+FNDA:10,rpgAPI.src.Model.RPGClass rpgAPI.src.Model.Character::get_CharacterClass()
+DA:22,10
+LF:7
+LH:7
+BRF:0
+BRH:0
+FNF:7
+FNH:7
+end_of_record
+SF:C:\Users\Shivam\Videos\Assessment-4\src\Model\ServiceResponse.cs
+FN:10,T rpgAPI.src.Model.ServiceResponse`1::get_Data()
+FNDA:12,T rpgAPI.src.Model.ServiceResponse`1::get_Data()
+DA:11,12
+FN:12,System.Boolean rpgAPI.src.Model.ServiceResponse`1::get_Success()
+FNDA:9,System.Boolean rpgAPI.src.Model.ServiceResponse`1::get_Success()
+DA:13,9
+FN:14,System.String rpgAPI.src.Model.ServiceResponse`1::get_Message()
+FNDA:9,System.String rpgAPI.src.Model.ServiceResponse`1::get_Message()
+DA:15,9
+LF:3
+LH:3
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
+SF:C:\Users\Shivam\Videos\Assessment-4\src\Controller\CharacterController.cs
+FN:24,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>>> rpgAPI.src.Controller.CharacterController::GetCharacter()
+FNDA:1,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>>> rpgAPI.src.Controller.CharacterController::GetCharacter()
+DA:25,1
+DA:26,1
+DA:27,1
+FN:31,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<rpgAPI.src.Model.Character>> rpgAPI.src.Controller.CharacterController::GetId(System.Int32)
+FNDA:1,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<rpgAPI.src.Model.Character>> rpgAPI.src.Controller.CharacterController::GetId(System.Int32)
+DA:32,1
+DA:33,1
+DA:34,1
+FN:37,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>>> rpgAPI.src.Controller.CharacterController::PostCharacter(rpgAPI.src.Model.Character)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>>> rpgAPI.src.Controller.CharacterController::PostCharacter(rpgAPI.src.Model.Character)
+DA:38,0
+DA:39,0
+DA:40,0
+FN:43,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<rpgAPI.src.Model.Character>> rpgAPI.src.Controller.CharacterController::DeleteCharacter(System.Int32)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<rpgAPI.src.Model.Character>> rpgAPI.src.Controller.CharacterController::DeleteCharacter(System.Int32)
+DA:44,0
+DA:45,0
+DA:46,0
+FN:49,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>>> rpgAPI.src.Controller.CharacterController::UpdateCharacter(rpgAPI.src.Model.Character)
+FNDA:0,Microsoft.AspNetCore.Mvc.ActionResult`1<rpgAPI.src.Model.ServiceResponse`1<System.Collections.Generic.List`1<rpgAPI.src.Model.Character>>> rpgAPI.src.Controller.CharacterController::UpdateCharacter(rpgAPI.src.Model.Character)
+DA:50,0
+DA:51,0
+DA:52,0
+FN:17,System.Void rpgAPI.src.Controller.CharacterController::.ctor(rpgAPI.src.Service.ICharacterService)
+FNDA:2,System.Void rpgAPI.src.Controller.CharacterController::.ctor(rpgAPI.src.Service.ICharacterService)
+DA:18,2
+DA:19,2
+DA:20,2
+DA:21,2
+LF:19
+LH:10
+BRF:0
+BRH:0
+FNF:6
+FNH:3
+end_of_record
